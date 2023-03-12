@@ -13,7 +13,8 @@ This project is a simple digital clock application that displays the current tim
 
 ## How to run the project 🚀
 
-To run the project, simply open the `index.html` file in any modern web browser. The clock should be displayed immediately and will begin updating the time in real-time.
+- Option 1: Clone the repository using Git and open the `index.html` file in your web browser.
+- Option 2: Access the deployed version of the website by clicking on this link: [Website](https://nonulldev.github.io/Clock-Project/)
 
 ## Resources used 🔧
 
