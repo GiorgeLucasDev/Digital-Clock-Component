@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body{
+    height: 90vh;
+}
+
+body, .main{
+    background: linear-gradient(90deg, #212171, #3E3E91);
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: #212171;
+    border-radius: 20px;
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+
+.container .hours{
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 50px;
+    color: white;
+}
+
+.container .top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 20px 20px 0px 0px;
+}
