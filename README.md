@@ -2,7 +2,7 @@
 
 ![Digital Clock Gif](https://media3.giphy.com/media/AhuRdl4tJMQAv43Nv4/giphy.gif?cid=ecf05e47pa7rd3gbc8rom9scz4716lrhoeqw8p68w0vgy9x4&rid=giphy.gif&ct=g)
 
-This is my challenge project to create a digital clock using HTML, CSS, and JavaScript.
+This is a digital clock component project created by Giorge Lucas using HTML, CSS, and JavaScript. The project was created to test my knowledge of JavaScript DOM and to challenge myself.
 
 ## Description 📝
 
