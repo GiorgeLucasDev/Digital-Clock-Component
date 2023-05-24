@@ -14,7 +14,7 @@ This project is a simple digital clock application that displays the current tim
 ## How to run the project 🚀
 
 - Option 1: Clone the repository using Git and open the `index.html` file in your web browser.
-- Option 2: Access the deployed version of the website by clicking on this link: [Website](https://nonulldev.github.io/Digital-Clock-Component/)
+- Option 2: Access the deployed version of the website by clicking on this link: <https://giorgelucasdev.github.io/Digital-Clock-Component/>
 
 ## Resources used 🔧
 
